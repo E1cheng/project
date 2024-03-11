@@ -1,0 +1,33 @@
+project:
+  type: website 
+  output-dir: docs
+
+website:
+  title: "Yang Cheng"
+  
+  navbar:
+    left:
+      - href: me.qmd
+        text: about me
+      - text: "CV"
+        href: 1cv.qmd
+        
+    right:
+      - icon: github
+        href: https://github.com/E1cheng
+      - icon: envelope
+        aria-label: email
+        href: "mailto:yvonneyang.cheng@mail.utoronto.ca"   
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.css
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
