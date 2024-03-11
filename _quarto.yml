@@ -1,0 +1,22 @@
+project:
+  type: website 
+  output-dir: docs
+
+website:
+  title: "Yang Cheng website"
+  description: "Yang Cheng is the best statistics student."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
