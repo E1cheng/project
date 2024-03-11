@@ -1,0 +1,12 @@
+---
+title: "Hi, This is Yang Cheng, Welcome to My Personal Space!"
+---
+I'm a third-year student at the University of Toronto, majoring in Applied Statistics. 
+
+I born and raised in the vibrant and diverse province of Jilin, located in the northeastern part of China, I've always been fascinated by numbers and patterns. At Toronto, not only am I honing my statistical skills, but I'm also embracing the cultural diversity and intellectual rigor that this renowned institution offers. My academic journey here is not just about numbers; it's about understanding the stories they tell and the insights they reveal.
+
+::: {layout-ncol="1"}
+![](img1.jpeg)
+:::
+
+Music and gaming are my sanctuaries – the rhythms and melodies in music echo my mood swings, while gaming unfolds a virtual world where I find both excitement and relaxation. Whether it's strumming the guitar on a lazy Sunday afternoon or leading a daring virtual quest late into the night, these hobbies keep me balanced and energized. They're not just pastimes; they're essential parts of who I am, helping me stay creative and dynamic in both my personal and academic life.
